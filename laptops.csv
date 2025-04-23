@@ -1,0 +1,310 @@
+Model,Rating,LastMonth,MRP,Discount,Discount%,Revenue,PriceSegment,Brand
+Unknown,4.0,400.0,62417,50240,19.51,20096000.0,Mid-Range,unknown
+Lenovo IdeaPad,3.9,300.0,70790,49990,29.38,14997000.0,Mid-Range,lenovo
+Lenovo V14,5.0,50.0,65000,44988,30.79,2249400.0,Mid-Range,lenovo
+Acer ALG,4.0,50.0,74999,63999,14.67,3199950.0,Premium,acer
+ACER One,5.0,50.0,39999,22990,42.52,1149500.0,Budget,acer
+Lenovo V15,3.4,100.0,90000,48490,46.12,4849000.0,Mid-Range,lenovo
+ASUS Vivobook,3.9,500.0,69990,53990,22.86,26995000.0,Mid-Range,asus
+Unknown,4.0,100.0,85000,33700,60.35,3370000.0,Mid-Range,unknown
+HP 15s,4.1,500.0,50903,34990,31.26,17495000.0,Mid-Range,hp
+Lenovo V15,4.6,50.0,60900,34990,42.55,1749500.0,Mid-Range,lenovo
+HP 255,5.0,50.0,30336,22960,24.31,1148000.0,Budget,hp
+Unknown,4.0,400.0,86890,64690,25.55,25876000.0,Premium,unknown
+ASUS TUF,3.9,400.0,83990,64990,22.62,25996000.0,Premium,asus
+Lenovo IdeaPad,4.0,100.0,38090,24990,34.39,2499000.0,Budget,lenovo
+Primebook S,4.5,50.0,27990,15990,42.87,799500.0,Budget,primebook
+Acer One,3.1,50.0,35999,17990,50.03,899500.0,Budget,acer
+HP Laptop,4.1,200.0,49990,31350,37.29,6270000.0,Mid-Range,hp
+Primebook S,4.5,50.0,27990,15990,42.87,799500.0,Budget,primebook
+Lenovo IdeaPad,3.1,300.0,40290,24100,40.18,7230000.0,Budget,lenovo
+HP 255,3.1,100.0,42369,29522,30.32,2952200.0,Budget,hp
+ASUS Vivobook,4.0,200.0,50990,29990,41.18,5998000.0,Budget,asus
+Lenovo V15,3.8,200.0,79000,21970,72.19,4394000.0,Budget,lenovo
+Lenovo V15,3.0,50.0,50760,26490,47.81,1324500.0,Budget,lenovo
+Unknown,4.0,100.0,38090,24990,34.39,2499000.0,Budget,unknown
+Unknown,4.0,300.0,65387,44932,31.28,13479600.0,Mid-Range,unknown
+Lenovo V15,4.0,100.0,38000,24980,34.26,2498000.0,Budget,lenovo
+FUTOPIA Ultimus,3.7,50.0,24990,12990,48.02,649500.0,Budget,futopia
+Lenovo V15,4.3,50.0,89990,21990,75.56,1099500.0,Budget,lenovo
+ASUS Vivobook,3.9,500.0,69990,53990,22.86,26995000.0,Mid-Range,asus
+ASUS TUF,3.9,400.0,83990,64990,22.62,25996000.0,Premium,asus
+Walker Thin,3.5,100.0,30000,12990,56.7,1299000.0,Budget,walker
+Lenovo V15,4.0,400.0,99999,42990,57.01,17196000.0,Mid-Range,lenovo
+Unknown,3.8,100.0,53413,37990,28.87,3799000.0,Mid-Range,unknown
+Unknown,4.0,500.0,58390,36990,36.65,18495000.0,Mid-Range,unknown
+Unknown,4.0,400.0,62417,50240,19.51,20096000.0,Mid-Range,unknown
+Walker Thin,3.5,100.0,30000,12990,56.7,1299000.0,Budget,walker
+Acer Aspire,3.4,50.0,29990,21980,26.71,1099000.0,Budget,acer
+HP 15s,4.1,100.0,38990,30999,20.49,3099900.0,Mid-Range,hp
+Lenovo V15,4.0,400.0,99999,42990,57.01,17196000.0,Mid-Range,lenovo
+HP Victus,4.1,200.0,72718,61499,15.43,12299800.0,Premium,hp
+JioBook 11,3.0,200.0,25000,12990,48.04,2598000.0,Budget,jiobook
+Acer Aspire,4.0,50.0,58999,33490,43.24,1674500.0,Mid-Range,acer
+Unknown,3.8,100.0,65387,57990,11.31,5799000.0,Mid-Range,unknown
+Samsung Galaxy,3.7,50.0,164990,97150,41.12,4857500.0,Premium,samsung
+Lenovo IdeaPad,3.9,200.0,70090,49990,28.68,9998000.0,Mid-Range,lenovo
+Lenovo V14,3.2,200.0,43990,39890,9.32,7978000.0,Mid-Range,lenovo
+HP Victus,3.3,100.0,79990,64990,18.75,6499000.0,Premium,hp
+ASUS ROG,2.5,50.0,251990,209990,16.67,10499500.0,Premium,asus
+Lenovo IdeaPad,4.0,500.0,58390,36990,36.65,18495000.0,Mid-Range,lenovo
+Acer Aspire,3.4,200.0,33999,23990,29.44,4798000.0,Budget,acer
+Unknown,4.0,100.0,85000,33700,60.35,3370000.0,Mid-Range,unknown
+Lenovo IdeaPad,4.0,500.0,58390,36990,36.65,18495000.0,Mid-Range,lenovo
+Acer Aspire,3.4,50.0,31999,22980,28.19,1149000.0,Budget,acer
+Walker Thin,3.5,100.0,30000,12990,56.7,1299000.0,Budget,walker
+Lenovo V15,4.0,300.0,58500,40980,29.95,12294000.0,Mid-Range,lenovo
+HP 15,4.0,400.0,62417,50240,19.51,20096000.0,Mid-Range,hp
+HP 255,1.9,100.0,32342,23990,25.82,2399000.0,Budget,hp
+ASUS Vivobook,3.9,300.0,60990,40990,32.79,12297000.0,Mid-Range,asus
+Unknown,4.0,50.0,55190,34990,36.6,1749500.0,Mid-Range,unknown
+Samsung Galaxy,4.0,200.0,82789,53200,35.74,10640000.0,Mid-Range,samsung
+Lenovo IdeaPad,4.0,400.0,86890,64690,25.55,25876000.0,Premium,lenovo
+Apple MacBook,4.5,500.0,149900,83990,43.97,41995000.0,Premium,apple
+Lenovo LOQ,3.7,50.0,139290,99990,28.21,4999500.0,Premium,lenovo
+MSI Stealth,4.0,50.0,229990,144645,37.11,7232250.0,Premium,msi
+Acer Aspire,3.6,50.0,74999,52990,29.35,2649500.0,Mid-Range,acer
+Unknown,3.5,50.0,39990,18990,52.51,949500.0,Budget,unknown
+Unknown,4.0,100.0,56490,37380,33.83,3738000.0,Mid-Range,unknown
+Acer Aspire,0.0,50.0,69990,51990,25.72,2599500.0,Mid-Range,acer
+Lenovo V15,4.0,400.0,99999,42990,57.01,17196000.0,Mid-Range,lenovo
+Acer Aspire,3.6,50.0,74999,52990,29.35,2649500.0,Mid-Range,acer
+HP Laptop,3.3,50.0,32078,24890,22.41,1244500.0,Budget,hp
+Acer Aspire,3.4,200.0,33999,23990,29.44,4798000.0,Budget,acer
+Lenovo Legion,4.0,50.0,256790,197951,22.91,9897550.0,Premium,lenovo
+ASUS Vivobook,3.4,50.0,85990,68990,19.77,3449500.0,Premium,asus
+Unknown,3.8,100.0,53413,37990,28.87,3799000.0,Mid-Range,unknown
+MSI Stealth,4.0,50.0,229990,144645,37.11,7232250.0,Premium,msi
+HP 15s,4.1,100.0,60959,36990,39.32,3699000.0,Mid-Range,hp
+Lenovo Legion,0.0,50.0,279890,200990,28.19,10049500.0,Premium,lenovo
+HP 255,1.9,100.0,32342,23990,25.82,2399000.0,Budget,hp
+Dell Inspiron,4.6,50.0,90999,64790,28.8,3239500.0,Premium,dell
+Lenovo LOQ,3.7,50.0,139290,99990,28.21,4999500.0,Premium,lenovo
+MSI Stealth,2.8,50.0,492990,265000,46.25,13250000.0,Premium,msi
+Unknown,4.0,400.0,62417,50240,19.51,20096000.0,Mid-Range,unknown
+MSI Stealth,0.0,50.0,279990,199990,28.57,9999500.0,Premium,msi
+Zebronics NC5500D,3.9,50.0,1299,799,38.49,39950.0,Budget,zebronics
+ASUSProArt PX13,5.0,50.0,215990,159990,25.93,7999500.0,Premium,asusproart
+Lenovo LOQ,3.7,50.0,139290,99990,28.21,4999500.0,Premium,lenovo
+HP 15,3.8,400.0,71773,56990,20.6,22796000.0,Mid-Range,hp
+Lenovo Yoga,3.6,50.0,125890,94990,24.55,4749500.0,Premium,lenovo
+Lenovo IdeaPad,3.9,100.0,72490,49199,32.13,4919900.0,Mid-Range,lenovo
+HP Laptop,3.6,50.0,95000,61800,34.95,3090000.0,Premium,hp
+Apple MacBook,4.5,500.0,149900,83990,43.97,41995000.0,Premium,apple
+Lenovo IdeaPad,3.9,50.0,50990,43100,15.47,2155000.0,Mid-Range,lenovo
+Acer Aspire,0.0,50.0,51999,33990,34.63,1699500.0,Mid-Range,acer
+HP 255,2.0,50.0,55000,25950,52.82,1297500.0,Budget,hp
+HP 14s,4.1,50.0,51134,36990,27.66,1849500.0,Mid-Range,hp
+Unknown,3.8,50.0,75000,53450,28.73,2672500.0,Mid-Range,unknown
+Unknown,4.0,100.0,55190,33990,38.41,3399000.0,Mid-Range,unknown
+HP 15s,3.9,50.0,67264,48100,28.49,2405000.0,Mid-Range,hp
+MSI Prestige,0.0,50.0,149990,129990,13.33,6499500.0,Premium,msi
+Lenovo IdeaPad,3.9,50.0,50990,43100,15.47,2155000.0,Mid-Range,lenovo
+Dell Inspiron,4.6,50.0,90999,64790,28.8,3239500.0,Premium,dell
+HP Pavilion,4.0,100.0,97867,72899,25.51,7289900.0,Premium,hp
+Lenovo IdeaPad,3.0,50.0,130090,83990,35.44,4199500.0,Premium,lenovo
+Unknown,3.9,300.0,70790,49990,29.38,14997000.0,Mid-Range,unknown
+Unknown,3.9,50.0,77490,51999,32.9,2599950.0,Mid-Range,unknown
+HP Pavilion,3.8,50.0,99019,77990,21.24,3899500.0,Premium,hp
+ASUSProArt PX13,5.0,50.0,215990,159990,25.93,7999500.0,Premium,asusproart
+Dell Inspiron,3.6,200.0,67336,56890,15.51,11378000.0,Mid-Range,dell
+Lenovo V15,3.4,100.0,90540,49990,44.79,4999000.0,Mid-Range,lenovo
+Acer Nitro,4.4,50.0,135399,97990,27.63,4899500.0,Premium,acer
+Lenovo V14,3.3,50.0,49990,39980,20.02,1999000.0,Mid-Range,lenovo
+Lenovo Ideapad,3.9,50.0,83890,57990,30.87,2899500.0,Mid-Range,lenovo
+Unknown,3.1,300.0,40290,24100,40.18,7230000.0,Budget,unknown
+Unknown,1.0,50.0,77507,72419,6.56,3620950.0,Premium,unknown
+Unknown,3.8,100.0,53413,37990,28.87,3799000.0,Mid-Range,unknown
+HP 15,1.0,50.0,77507,72419,6.56,3620950.0,Premium,hp
+Lenovo IdeaPad,3.7,100.0,34990,25450,27.26,2545000.0,Budget,lenovo
+HP Pavilion,4.0,100.0,97867,72899,25.51,7289900.0,Premium,hp
+Dell New,0.0,50.0,109941,88820,19.21,4441000.0,Premium,dell
+ASUS TUF,3.9,100.0,74990,58990,21.34,5899000.0,Mid-Range,asus
+Lenovo IdeaPad,4.0,100.0,55190,33990,38.41,3399000.0,Mid-Range,lenovo
+Lenovo Legion,0.0,50.0,279890,200990,28.19,10049500.0,Premium,lenovo
+Unknown,3.6,50.0,52575,33990,35.35,1699500.0,Mid-Range,unknown
+Lenovo LOQ,4.2,100.0,110890,82190,25.88,8219000.0,Premium,lenovo
+HP 15s,3.9,50.0,67264,48100,28.49,2405000.0,Mid-Range,hp
+Acer Aspire,3.4,50.0,30999,22990,25.84,1149500.0,Budget,acer
+Lenovo IdeaPad,3.9,50.0,50990,43100,15.47,2155000.0,Mid-Range,lenovo
+Lenovo IdeaPad,4.0,50.0,74890,58190,22.3,2909500.0,Mid-Range,lenovo
+Unknown,4.1,50.0,53000,42990,18.89,2149500.0,Mid-Range,unknown
+Unknown,4.1,500.0,50903,34990,31.26,17495000.0,Mid-Range,unknown
+Unknown,3.9,50.0,106331,79990,24.77,3999500.0,Premium,unknown
+ASUS Zenbook,0.0,50.0,290990,239990,17.53,11999500.0,Premium,asus
+Lenovo IdeaPad,0.0,50.0,59090,42490,28.09,2124500.0,Mid-Range,lenovo
+MSI Thin,4.0,50.0,82990,63583,23.38,3179150.0,Premium,msi
+HP Envy,4.2,50.0,98999,82700,16.46,4135000.0,Premium,hp
+Unknown,4.0,100.0,97867,72899,25.51,7289900.0,Premium,unknown
+Unknown,4.0,400.0,86890,64690,25.55,25876000.0,Premium,unknown
+Acer Aspire,3.4,50.0,30999,22990,25.84,1149500.0,Budget,acer
+Lenovo V15,3.8,50.0,82990,32390,60.97,1619500.0,Mid-Range,lenovo
+HP 15,3.3,100.0,56831,41990,26.11,4199000.0,Mid-Range,hp
+Acer Aspire,0.0,50.0,51999,33990,34.63,1699500.0,Mid-Range,acer
+Dell Latitude,4.5,50.0,157262,54611,65.27,2730550.0,Mid-Range,dell
+HP Laptop,0.0,50.0,95000,63000,33.68,3150000.0,Premium,hp
+Lenovo IdeaPad,4.0,50.0,74890,58190,22.3,2909500.0,Mid-Range,lenovo
+Unknown,3.6,100.0,44990,24990,44.45,2499000.0,Budget,unknown
+Lenovo IdeaPad,4.0,100.0,56490,37380,33.83,3738000.0,Mid-Range,lenovo
+Lenovo V15,3.8,50.0,82990,32390,60.97,1619500.0,Mid-Range,lenovo
+HP 15,2.9,50.0,80755,67990,15.81,3399500.0,Premium,hp
+Lenovo Yoga,5.0,50.0,195890,118990,39.26,5949500.0,Premium,lenovo
+Lenovo V15,3.7,50.0,51990,32940,36.64,1647000.0,Mid-Range,lenovo
+Lenovo IdeaPad,4.1,100.0,58890,33700,42.77,3370000.0,Mid-Range,lenovo
+Lenovo IdeaPad,3.0,50.0,130090,83990,35.44,4199500.0,Premium,lenovo
+Unknown,3.8,100.0,53413,37990,28.87,3799000.0,Mid-Range,unknown
+Acer Aspire,0.0,50.0,51999,33990,34.63,1699500.0,Mid-Range,acer
+ASUS Laptop,4.2,50.0,84999,32000,62.35,1600000.0,Mid-Range,asus
+Lenovo IdeaPad,3.9,50.0,78590,63990,18.58,3199500.0,Premium,lenovo
+ASUSProArt PX13,5.0,50.0,215990,159990,25.93,7999500.0,Premium,asusproart
+Lenovo V14,3.7,50.0,49999,39600,20.8,1980000.0,Mid-Range,lenovo
+Unknown,4.0,100.0,99900,96990,2.91,9699000.0,Premium,unknown
+HP 15,3.6,100.0,50843,38990,23.31,3899000.0,Mid-Range,hp
+Lenovo IdeaPad,4.1,50.0,59990,32890,45.17,1644500.0,Mid-Range,lenovo
+HP 15s,4.0,100.0,51134,36490,28.64,3649000.0,Mid-Range,hp
+Lenovo V15,3.8,50.0,99999,27990,72.01,1399500.0,Budget,lenovo
+Lenovo LOQ,4.0,100.0,109090,75990,30.34,7599000.0,Premium,lenovo
+Dell Inspiron,3.5,50.0,85079,65290,23.26,3264500.0,Premium,dell
+Lenovo Yoga,5.0,50.0,195890,118990,39.26,5949500.0,Premium,lenovo
+HP 255,4.4,50.0,49990,30990,38.01,1549500.0,Mid-Range,hp
+HP Laptop,3.6,50.0,95000,61800,34.95,3090000.0,Premium,hp
+HP Victus,3.6,50.0,63629,49990,21.44,2499500.0,Mid-Range,hp
+Dell Vostro,4.1,50.0,69544,49490,28.84,2474500.0,Mid-Range,dell
+Lenovo LOQ,3.3,50.0,94590,66690,29.5,3334500.0,Premium,lenovo
+Lenovo LOQ,4.2,100.0,110890,82190,25.88,8219000.0,Premium,lenovo
+Unknown,4.1,50.0,63990,44990,29.69,2249500.0,Mid-Range,unknown
+Unknown,3.8,100.0,53413,37990,28.87,3799000.0,Mid-Range,unknown
+Lenovo IdeaPad,4.3,50.0,76390,45990,39.8,2299500.0,Mid-Range,lenovo
+Unknown,3.9,50.0,106331,79990,24.77,3999500.0,Premium,unknown
+HP 15s,3.8,100.0,59387,47800,19.51,4780000.0,Mid-Range,hp
+Unknown,3.8,200.0,49442,33990,31.25,6798000.0,Mid-Range,unknown
+HP 15,3.8,50.0,85000,59000,30.59,2950000.0,Mid-Range,hp
+Lenovo V15,3.9,50.0,59990,27890,53.51,1394500.0,Budget,lenovo
+ASUS Zenbook,0.0,50.0,290990,239990,17.53,11999500.0,Premium,asus
+HP 15s,3.8,200.0,48988,33990,30.62,6798000.0,Mid-Range,hp
+Acer Aspire,0.0,50.0,39990,29990,25.01,1499500.0,Budget,acer
+ASUS Vivobook,0.0,50.0,48990,37990,22.45,1899500.0,Mid-Range,asus
+ASUS Vivobook,4.0,50.0,116990,79990,31.63,3999500.0,Premium,asus
+Zebronics NC5500D,3.9,50.0,1299,799,38.49,39950.0,Budget,zebronics
+HP Pavilion,3.0,50.0,125400,111000,11.48,5550000.0,Premium,hp
+MSI Modern,3.5,50.0,47990,30990,35.42,1549500.0,Mid-Range,msi
+Samsung Galaxy,4.1,50.0,91989,55890,39.24,2794500.0,Mid-Range,samsung
+AVITA Laptop,0.0,50.0,29767,19269,35.27,963450.0,Budget,avita
+Lenovo Yoga,4.8,50.0,209890,147990,29.49,7399500.0,Premium,lenovo
+Lenovo IdeaPad,4.0,50.0,78590,61990,21.12,3099500.0,Premium,lenovo
+ASUS Vivobook,3.2,50.0,50990,29930,41.3,1496500.0,Budget,asus
+Lenovo ThinkPad,4.3,50.0,91966,47990,47.82,2399500.0,Mid-Range,lenovo
+ASUS TUF,3.9,50.0,107990,84990,21.3,4249500.0,Premium,asus
+HP 15s,4.0,100.0,51134,36490,28.64,3649000.0,Mid-Range,hp
+Acer ALG,3.8,50.0,99990,76999,22.99,3849950.0,Premium,acer
+HP 15s,3.8,100.0,59387,47800,19.51,4780000.0,Mid-Range,hp
+Lenovo V15,3.8,50.0,82990,32390,60.97,1619500.0,Mid-Range,lenovo
+HP 15s,3.6,50.0,52575,33990,35.35,1699500.0,Mid-Range,hp
+ASUS TUF,4.2,50.0,119990,95990,20.0,4799500.0,Premium,asus
+AVITA Laptop,0.0,50.0,29767,19269,35.27,963450.0,Budget,avita
+Apple 2024,4.5,50.0,249900,239990,3.97,11999500.0,Premium,apple
+ASUS Vivobook,3.2,50.0,50990,29930,41.3,1496500.0,Budget,asus
+Lenovo V15,3.8,50.0,89990,27990,68.9,1399500.0,Budget,lenovo
+Unknown,4.0,100.0,38090,24990,34.39,2499000.0,Budget,unknown
+Acer Nitro,4.1,50.0,89999,70990,21.12,3549500.0,Premium,acer
+Lenovo IdeaPad,5.0,50.0,89290,56990,36.17,2849500.0,Mid-Range,lenovo
+HP 15s,4.0,100.0,51134,36490,28.64,3649000.0,Mid-Range,hp
+ASUS VivoBook,4.4,50.0,54990,32799,40.35,1639950.0,Mid-Range,asus
+HP Victus,3.8,50.0,101715,78990,22.34,3949500.0,Premium,hp
+HP 255,4.0,50.0,45000,29650,34.11,1482500.0,Budget,hp
+Alienware m18,0.0,50.0,515924,449890,12.8,22494500.0,Premium,alienware
+Acer Aspire,0.0,50.0,39990,29990,25.01,1499500.0,Budget,acer
+Dell Inspiron,3.9,50.0,45999,37999,17.39,1899950.0,Mid-Range,dell
+Apple 2025,4.0,100.0,99900,96990,2.91,9699000.0,Premium,apple
+Lenovo V15,3.8,50.0,89990,27990,68.9,1399500.0,Budget,lenovo
+Dell Inspiron,3.5,50.0,85079,65290,23.26,3264500.0,Premium,dell
+Lenovo V14,3.7,50.0,49999,39600,20.8,1980000.0,Mid-Range,lenovo
+Unknown,4.0,300.0,65387,44932,31.28,13479600.0,Mid-Range,unknown
+Lenovo IdeaPad,4.1,50.0,59990,32890,45.17,1644500.0,Mid-Range,lenovo
+ASUS TUF,4.2,50.0,119990,95990,20.0,4799500.0,Premium,asus
+Lenovo IdeaPad,0.0,50.0,59090,42490,28.09,2124500.0,Mid-Range,lenovo
+ASUS VivoBook,3.9,100.0,54990,32990,40.01,3299000.0,Mid-Range,asus
+HP 15,3.6,100.0,50843,38990,23.31,3899000.0,Mid-Range,hp
+Dell 15,3.5,100.0,68718,50990,25.8,5099000.0,Mid-Range,dell
+ASUS Vivobook,2.8,50.0,61990,35990,41.94,1799500.0,Mid-Range,asus
+Lenovo ThinkPad,4.3,50.0,91966,47990,47.82,2399500.0,Mid-Range,lenovo
+ASUS Vivobook,2.8,50.0,61990,35990,41.94,1799500.0,Mid-Range,asus
+Lenovo V15,3.7,50.0,78980,27990,64.56,1399500.0,Budget,lenovo
+Dell MS116,4.4,50.0,650,309,52.46,15450.0,Budget,dell
+HP 15,4.2,50.0,58841,41980,28.66,2099000.0,Mid-Range,hp
+Dell 15,3.5,100.0,68718,50990,25.8,5099000.0,Mid-Range,dell
+Dell Inspiron,3.9,50.0,53040,37490,29.32,1874500.0,Mid-Range,dell
+Unknown,4.0,100.0,38090,24990,34.39,2499000.0,Budget,unknown
+Unknown,4.0,300.0,65387,44932,31.28,13479600.0,Mid-Range,unknown
+MSI Titan,3.5,50.0,499990,347999,30.4,17399950.0,Premium,msi
+Foldable Wooden,4.6,50.0,1999,379,81.04,18950.0,Budget,foldable
+Samsung Galaxy,4.5,50.0,89689,63800,28.87,3190000.0,Premium,samsung
+HP Victus,3.8,50.0,101715,78990,22.34,3949500.0,Premium,hp
+Dyazo 6,4.3,50.0,1999,349,82.54,17450.0,Budget,dyazo
+Apple 2025,4.0,100.0,99900,96990,2.91,9699000.0,Premium,apple
+ASUS Vivobook,0.0,50.0,74990,43990,41.34,2199500.0,Mid-Range,asus
+Unknown,4.0,300.0,65387,44932,31.28,13479600.0,Mid-Range,unknown
+ASUS Vivobook,0.0,50.0,74990,43990,41.34,2199500.0,Mid-Range,asus
+Lenovo LOQ,3.3,50.0,105090,72990,30.55,3649500.0,Premium,lenovo
+ASUS Vivobook,3.4,50.0,101990,84990,16.67,4249500.0,Premium,asus
+Acer Nitro,4.1,50.0,103999,75980,26.94,3799000.0,Premium,acer
+Amazon Basics,4.0,100.0,12749,3499,72.55,349900.0,Budget,amazon
+MagicRaven Portable,4.4,50.0,16500,10999,33.34,549950.0,Budget,magicraven
+Zebronics NC5500D,3.9,50.0,1299,799,38.49,39950.0,Budget,zebronics
+Unknown,3.8,100.0,53413,37990,28.87,3799000.0,Mid-Range,unknown
+Logitech M186,4.3,50.0,1195,599,49.87,29950.0,Budget,logitech
+ZEBRONICS Igloo,4.0,50.0,799,495,38.05,24750.0,Budget,zebronics
+Dyazo Water,4.3,50.0,999,299,70.07,14950.0,Budget,dyazo
+boAt EnergyShroom,4.2,300.0,11999,4499,62.51,1349700.0,Budget,boat
+PLIXIO Adjustable,4.3,500.0,6999,2183,68.81,1091500.0,Budget,plixio
+Portronics My,4.3,50.0,2999,998,66.72,49900.0,Budget,portronics
+Samsung Galaxy,4.0,50.0,182990,137915,24.63,6895750.0,Premium,samsung
+Unknown,4.3,100.0,86590,57890,33.14,5789000.0,Mid-Range,unknown
+Unknown,4.0,100.0,38090,24990,34.39,2499000.0,Budget,unknown
+Samsung Galaxy,4.0,50.0,182990,137915,24.63,6895750.0,Premium,samsung
+STRIFF Webcam,4.2,50.0,499,129,74.15,6450.0,Budget,striff
+DYAZO 15,4.2,50.0,999,299,70.07,14950.0,Budget,dyazo
+ZEBRONICS NS3000,3.9,500.0,3999,999,75.02,499500.0,Budget,zebronics
+Amazon Basics,4.0,500.0,3699,499,86.51,249500.0,Budget,amazon
+Sounce Mouse,4.2,50.0,999,99,90.09,4950.0,Budget,sounce
+PLIXIO Adjustable,4.3,500.0,6999,2183,68.81,1091500.0,Budget,plixio
+Unknown,4.0,300.0,65387,44932,31.28,13479600.0,Mid-Range,unknown
+Florican Portable,4.3,400.0,1299,269,79.29,107600.0,Budget,florican
+STRIFF 2,4.2,300.0,1499,279,81.39,83700.0,Budget,striff
+Amazon Basics,4.0,100.0,12749,3499,72.55,349900.0,Budget,amazon
+boAt EnergyShroom,4.2,300.0,11999,4499,62.51,1349700.0,Budget,boat
+Aropana Vegan,4.5,100.0,1299,569,56.2,56900.0,Budget,aropana
+HP Pavilion,3.9,50.0,69082,57990,16.06,2899500.0,Mid-Range,hp
+Lenovo Legion,3.5,50.0,419890,269990,35.7,13499500.0,Premium,lenovo
+Lenovo V14,3.7,50.0,49999,39600,20.8,1980000.0,Mid-Range,lenovo
+ASUS Vivobook,3.4,50.0,101990,84990,16.67,4249500.0,Premium,asus
+Lenovo LOQ,3.3,50.0,105090,72990,30.55,3649500.0,Premium,lenovo
+ASUS Zenbook,0.0,50.0,290990,239990,17.53,11999500.0,Premium,asus
+Acer Predator,4.1,50.0,163999,114990,29.88,5749500.0,Premium,acer
+Acer Aspire,4.1,50.0,47999,31980,33.37,1599000.0,Mid-Range,acer
+HP Pavilion,3.9,50.0,69082,57990,16.06,2899500.0,Mid-Range,hp
+Unknown,4.0,300.0,65387,44932,31.28,13479600.0,Mid-Range,unknown
+Unknown,4.1,500.0,50903,34990,31.26,17495000.0,Mid-Range,unknown
+Lenovo Legion,3.5,50.0,419890,269990,35.7,13499500.0,Premium,lenovo
+ASUS Vivobook,5.0,50.0,54990,35890,34.73,1794500.0,Mid-Range,asus
+Microsoft New,3.9,50.0,116999,108990,6.85,5449500.0,Premium,microsoft
+Dell 15,3.8,50.0,62002,44990,27.44,2249500.0,Mid-Range,dell
+Dell 15,3.8,50.0,70761,54990,22.29,2749500.0,Mid-Range,dell
+HP 15,3.8,100.0,65387,57990,11.31,5799000.0,Mid-Range,hp
+Acer NITRO,4.1,50.0,101999,80990,20.6,4049500.0,Premium,acer
+Unknown,4.0,300.0,65387,44932,31.28,13479600.0,Mid-Range,unknown
+HP Pavilion,3.9,50.0,69082,57990,16.06,2899500.0,Mid-Range,hp
+Lenovo Legion,3.5,50.0,419890,269990,35.7,13499500.0,Premium,lenovo
+ASUS Vivobook,5.0,50.0,54990,35890,34.73,1794500.0,Mid-Range,asus
+Microsoft New,3.9,50.0,116999,108990,6.85,5449500.0,Premium,microsoft
+Dell 15,3.8,50.0,62002,44990,27.44,2249500.0,Mid-Range,dell
+Dell 15,3.8,50.0,70761,54990,22.29,2749500.0,Mid-Range,dell
+HP 15,3.8,100.0,65387,57990,11.31,5799000.0,Mid-Range,hp
+Unknown,4.0,100.0,38090,24990,34.39,2499000.0,Budget,unknown
+Acer NITRO,4.1,50.0,101999,80990,20.6,4049500.0,Premium,acer
+Dell Alienware,0.0,50.0,276071,246990,10.53,12349500.0,Premium,dell
+Acer Aspire,3.6,50.0,80999,47990,40.75,2399500.0,Mid-Range,acer
+Lenovo V14,4.8,50.0,49990,32990,34.01,1649500.0,Mid-Range,lenovo
+HP 15,5.0,50.0,54552,39060,28.4,1953000.0,Mid-Range,hp
+Dell Inspiron,3.8,50.0,52990,45900,13.38,2295000.0,Mid-Range,dell
+HP Pavilion,3.7,50.0,91615,71990,21.42,3599500.0,Premium,hp
